@@ -1,0 +1,1 @@
+# odoo-res-partner-json-rpc
